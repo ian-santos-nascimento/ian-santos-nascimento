@@ -1,5 +1,5 @@
-##  Bem vindo ao meu GitHub! Me chamo Ian Santos.
-Atualmente trabalho com aplicações Java EE e especificações, também utilizo PostgreSQL.
+##  Bem vindo ao meu GitHub! Me chamo Ian Santos e sou FullStack Web Developer. (For english speakers,the translation it's down below)
+Atualmente trabalho com aplicações Java EE e especificações(JSF, SpringBoot),Primefaces como template,versionamento com Git e também utilizo PostgreSQL como BD relacional. Estudo Python,Java e implementações com API Rest, utilizo prioritariamente ReactJs para o FrontEnd.
 <div>
   <a href="https://github.com/ian-santos-nascimento">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ian-santos-nascimento&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
@@ -35,7 +35,9 @@ Atualmente trabalho com aplicações Java EE e especificações, também utilizo
 <div>
   <h2>About me</h2>
   <p>
-  I'm a Computer Scientist student at Universidade de Roraima from Brazil.I love learning and developing new skils. Currently working for the Governo de Roraima applying Java EE and Postgresql DataBase.
+    Currently I work with Java EE and specifications(JSF, SpringBoot),Primefaces as template,git for versioning and also the use of PostgreSQL as relational DB. I study Python,Java and implementations with API Rest, I use primarily ReactJs for FrontEnd.
+  <p>
+  I'm a Computer Scientist student at Universidade de Roraima from Brazil.I love learning, solving problems and developing new skils. Currently working for the Governo de Roraima applying Java EE and Postgresql DataBase.
     
    I want to learn how to implemment code in big companies and study the processes.That is why I'm alredy searching for ways to develop myself as a programmer and trying to find more jobs so I can see the real thing. Thanks for reading until now. Bye :)
   </p>
